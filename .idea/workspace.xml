@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c9757d5-1a5c-401b-8152-fa4dd5169d5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a5gZBLtw6Qjl44TWNkoB8B5aRn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ec" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\automation\phptravels\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\automation\phptravels\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCases">
+    <configuration name="TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phptravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.ValidTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phptravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestCases" />
+      <option name="METHOD_NAME" value="ValidTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.ValidTestcase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phptravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestCases" />
+      <option name="METHOD_NAME" value="ValidTestcase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.invalidEmailName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phptravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestCases" />
+      <option name="METHOD_NAME" value="invalidEmailName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.invalidLowerFirstName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phptravels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testcases" />
+      <option name="MAIN_CLASS_NAME" value="Testcases.TestCases" />
+      <option name="METHOD_NAME" value="invalidLowerFirstName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases" />
+        <item itemvalue="TestNG.TestCases.ValidTest" />
+        <item itemvalue="TestNG.TestCases.invalidEmailName" />
+        <item itemvalue="TestNG.TestCases.invalidLowerFirstName" />
+        <item itemvalue="TestNG.TestCases.ValidTestcase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c9757d5-1a5c-401b-8152-fa4dd5169d5b" name="Default Changelist" comment="" />
+      <created>1586030921250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586030921250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="21" key="#Project_Structure" timestamp="1586031492461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586031492461" />
+    <state x="392" y="0" width="596" height="728" key="#ValidTestcase.ValidTestcase" timestamp="1586044187112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" width="596" height="728" key="#ValidTestcase.ValidTestcase/0.0.1366.728@0.0.1366.728" timestamp="1586044187112" />
+    <state x="432" y="199" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586253897335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="199" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1586253897335" />
+    <state x="463" y="89" key="FileChooserDialogImpl" timestamp="1586254316540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="89" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586254316540" />
+    <state width="1011" height="176" key="GridCell.Tab.0.bottom" timestamp="1586252308553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586252308553" />
+    <state width="1011" height="176" key="GridCell.Tab.0.center" timestamp="1586252308553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586252308553" />
+    <state width="1011" height="176" key="GridCell.Tab.0.left" timestamp="1586252308553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586252308553" />
+    <state width="1011" height="176" key="GridCell.Tab.0.right" timestamp="1586252308553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586252308553" />
+    <state width="1322" height="167" key="GridCell.Tab.1.bottom" timestamp="1586235301760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586235301760" />
+    <state width="1322" height="167" key="GridCell.Tab.1.center" timestamp="1586235301760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586235301760" />
+    <state width="1322" height="167" key="GridCell.Tab.1.left" timestamp="1586235301760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586235301760" />
+    <state width="1322" height="167" key="GridCell.Tab.1.right" timestamp="1586235301760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586235301760" />
+    <state x="492" y="308" key="ReplaceDuplicatesPrompt" timestamp="1586120503985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="308" key="ReplaceDuplicatesPrompt/0.0.1366.728@0.0.1366.728" timestamp="1586120503985" />
+    <state x="327" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586046261488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1586046261488" />
+    <state x="624" y="307" width="706" height="408" key="dock-window-1" timestamp="1586047531605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="624" y="307" width="706" height="408" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1586047531605" />
+    <state x="645" y="202" key="export.test.results" timestamp="1586115672517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="645" y="202" key="export.test.results/0.0.1366.728@0.0.1366.728" timestamp="1586115672517" />
+    <state x="407" y="130" width="540" height="501" key="extract.method.dialog" timestamp="1586120520424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="407" y="130" width="540" height="501" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586120520424" />
+    <state x="630" y="49" width="736" height="606" key="find.popup" timestamp="1586249819961">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="630" y="49" width="736" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1586249819961" />
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586120472587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1586120472587" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/resources/sdss.java</url>
+          <line>447</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class</url>
+          <line>462</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/phptravels$ValidTestcase_ValidTestcase.ic" NAME="ValidTestcase.ValidTestcase Coverage Results" MODIFIED="1586118576636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Testcases.*</FILTER>
+    </SUITE>
+  </component>
+</project>
