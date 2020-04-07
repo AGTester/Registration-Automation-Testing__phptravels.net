@@ -27,9 +27,8 @@ Features:
 2.	 Find bugs and reporting it to console and screenshots.
 3.	 Check request response in console.
 4.	We can track our test process visually in chrome.
-
-i.	Read every live step in console by EventReporter.
-iii.Inserting all values of registration form, use submit button.
+i.  Read every live step in console by EventReporter.
+ii.	Inserting all values of registration form, use submit button.
 iii.check successfully moving to registered profile home page.
 ****************************************************************************
 Limitations:
